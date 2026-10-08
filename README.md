@@ -21,7 +21,6 @@
 ```
 part1.py                    # Training + inference for var1 (Lasso)
 part2.py                    # Training + inference for var2 (Ridge)
-report.tex                  # LaTeX report source
 report.pdf                  # Compiled report
 BT2024218_pred_var1.csv     # Test predictions for var1
 BT2024218_pred_var2.csv     # Test predictions for var2
